@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997228251790",
+    "project_id": "walksafe-9a64e",
+    "storage_bucket": "walksafe-9a64e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997228251790:android:b7688b94d3afc9b3d197df",
+        "android_client_info": {
+          "package_name": "com.example.safewalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPqLsuz_UYyUtxDyGUFTBS7ATD7maBgLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
